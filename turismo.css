@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+*{
+  margin: 0px;
+  border: 0px;
+}
+
+body {
+  background-color: #fdf0dc;
+  font-family: "Lato";
+}
+
+.container{
+  width: 1280px;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header{
+  width: 100%;
+  padding: 60px 4%;
+  position: fixed;
+  top:0;
+  left:0;
+  transition: 0.5s;
+}
+
+header.rolagem{
+  background-color: #7F4F24;
+  padding: 20px 4%;
+}
+
+header.rolagem a{
+  color: white
+}
+
+header ul{
+  list-style-type: none;
+}
+
+header ul li{
+  display: inline-block;
+  margin: 0 20px;
+}
+
+header ul li a{
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.banner{
+  height: 100vh;
+  background-image: url(assets/images/refugio-na-serra-capa\ 1.png);
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner p{
+  font-weight: 600;
+  font-size: 35px;
+  color: white;
+
+}
+
+.rodape{
+  background-color: #7F4F24;
+  display: flex;
+  height: 62vh;
+  justify-content: center;
+  align-items: center;
+  gap: 3vw;
+}
+
+.rodape .titulorodape{
+  width: 5vw;
+  margin-right: 2vw;
+  color: #fff;
+  font-family: "Jolly Lodger", system-ui;
+  font-size: 50px;
+}
+
+.rodape .titulorodapedois{
+  color: #fff;
+}
+
+.rodape .nav{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rodape .nav .eventos{
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+.rodape .nav .eventos:hover{
+  transform: scale(1.1);
+}
+
+.rodape .redes{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: 0.3s ease-in-out;
+}
+
+.rodape .redes .sociais{
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+.rodape .redes .sociais:hover{
+  transform: scale(1.1);
+}
+
