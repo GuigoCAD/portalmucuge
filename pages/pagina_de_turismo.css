@@ -1,0 +1,1348 @@
+.pagina-de-turismo .portal-mucug {
+  margin-right: 29px;
+  width: 433px;
+  overflow-wrap: break-word;
+  font-family: 'Jolly Lodger';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .tour-tur-stico {
+  margin-right: 29.9px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 500;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .hospedagens {
+  margin-right: 23.5px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 500;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .gastronomia {
+  margin-right: 36.7px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 500;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .programa-es {
+  margin-right: 26.1px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 500;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .contatos {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 500;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .container-4 {
+  margin-top: 7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-9 {
+  margin-bottom: 255px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1826.7px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .veja-por-onde-passar-para-aproveitar {
+  margin-right: 43.7px;
+  overflow-wrap: break-word;
+  font-family: 'Jolly Lodger';
+  font-weight: 400;
+  font-size: 120px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .cabecalho {
+  background: linear-gradient(rgba(172, 172, 172, 0.6), rgba(172, 172, 172, 0.6)), url('../assets/images/refugio_na_serra_capa_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 0px 95px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 47.6px 28.3px 395px 65px;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .mais-visitados-1 {
+  margin: 0 73px 29px 73px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 64px;
+  color: #000000;
+}
+.pagina-de-turismo .paradas-obrigatorias-para-voc-que-quer-conhecer-toda-abeleza-de-mucug {
+  margin: 0 73px 50px 73px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-4 {
+  width: 52px;
+  height: 54px;
+}
+.pagina-de-turismo .icon-arrow-circle-right-3 {
+  margin: 158px 21px 116px 0;
+  display: flex;
+  width: 52px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .image-47 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: url('../assets/images/image_61.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .image-40 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: url('../assets/images/image_58.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .image-44 {
+  border-radius: 60px;
+  border-bottom: 1px solid #000000;
+  background: url('../assets/images/image_63.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 405px;
+  height: 328px;
+}
+.pagina-de-turismo .image-42 {
+  border-radius: 60px;
+  background: url('../assets/images/image_60.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .vector-1 {
+  width: 52px;
+  height: 54px;
+}
+.pagina-de-turismo .icon-arrow-circle-right {
+  margin: 158px 0 116px 0;
+  display: flex;
+  width: 52px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-26 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  width: 1830px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .museu-vivo-do-garimpo {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-7 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-8 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-9 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-10 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-11 {
+  margin-bottom: 0px;
+  width: 27.7px;
+  height: 25.2px;
+}
+.pagina-de-turismo .group-12 {
+  margin: 4.1px 11.4px 5.7px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 0px;
+  width: 130.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-6 {
+  margin-left: 25.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-36 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .projeto-sempre-viva {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .cachoeira-do-tiburtino {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-47 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-50 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-53 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-56 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-59 {
+  margin: 6px 13px 6px 0;
+  width: 25px;
+  height: 23px;
+}
+.pagina-de-turismo .container-9 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-30 {
+  margin-left: 26px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .trilha-vale-do-paty {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-35 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-38 {
+  margin: 6px 0;
+  width: 25px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-41 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-44 {
+  margin: 6px 12px 6px 0;
+  width: 53px;
+  height: 23px;
+}
+.pagina-de-turismo .container-6 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-23 {
+  margin: 0 13px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-7 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-21 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1549.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .vector-23 {
+  position: absolute;
+  left: 480px;
+  bottom: 5px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-26 {
+  position: absolute;
+  left: 506px;
+  bottom: 5px;
+  width: 25px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-29 {
+  position: absolute;
+  left: 531px;
+  bottom: 5px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-32 {
+  position: absolute;
+  left: 557px;
+  bottom: 5px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .container-3 {
+  position: absolute;
+  left: 622px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-62 {
+  position: absolute;
+  left: 583px;
+  bottom: 5px;
+  width: 28px;
+  height: 25px;
+}
+.pagina-de-turismo .container-3 {
+  position: relative;
+  margin: 0 155.6px 2px 125px;
+  display: flex;
+  width: 1549.4px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .r-80-por-adulto {
+  margin-right: 17.5px;
+  width: 386.5px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .r-175-por-adulto {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .r-65-por-adulto {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .container-8 {
+  margin: 0 170px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1045.6px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-35 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .r-1500-por-adulto {
+  position: absolute;
+  right: 154px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .mais-visitados {
+  position: relative;
+  margin: 0 62px 143px 28px;
+  display: flex;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .na-natureza-1 {
+  margin: 0 71px 29px 71px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 64px;
+  color: #000000;
+}
+.pagina-de-turismo .pra-quem-quer-andar-lado-alado-da-natureza-em-mucug {
+  margin: 0 73px 29px 73px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-5 {
+  width: 52px;
+  height: 54px;
+}
+.pagina-de-turismo .icon-arrow-circle-right-4 {
+  margin: 178px 21px 96px 0;
+  display: flex;
+  width: 52px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .image-61 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: url('../assets/images/image_61.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .image-58 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: url('../assets/images/image_58.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .image-59 {
+  border-radius: 60px;
+  border-bottom: 1px solid #000000;
+  background: url('../assets/images/image_63.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 405px;
+  height: 328px;
+}
+.pagina-de-turismo .image-60 {
+  border-radius: 60px;
+  background: url('../assets/images/image_60.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .vector-2 {
+  width: 52px;
+  height: 54px;
+}
+.pagina-de-turismo .icon-arrow-circle-right-1 {
+  margin: 178px 0 96px 0;
+  display: flex;
+  width: 52px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-2 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  width: 1830px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .museu-vivo-do-garimpo-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-12 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-13 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-14 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-15 {
+  margin-top: 1.7px;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-16 {
+  margin-bottom: 0px;
+  width: 27.7px;
+  height: 25.2px;
+}
+.pagina-de-turismo .group-13 {
+  margin: 4.1px 11.4px 5.7px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 0px;
+  width: 130.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-13 {
+  margin-left: 25.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-11 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .projeto-sempre-viva-1 {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .cachoeira-do-tiburtino-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-48 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-51 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-54 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-57 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-60 {
+  margin: 6px 13px 6px 0;
+  width: 25px;
+  height: 23px;
+}
+.pagina-de-turismo .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-29 {
+  margin-left: 26px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .trilha-vale-do-paty-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-36 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-39 {
+  margin: 6px 0;
+  width: 25px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-42 {
+  margin: 6px 0;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-45 {
+  margin: 6px 13px 6px 0;
+  width: 53px;
+  height: 23px;
+}
+.pagina-de-turismo .container-7 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-27 {
+  margin: 0 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-31 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-18 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1549.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .vector-24 {
+  position: absolute;
+  left: 480px;
+  bottom: 5px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-27 {
+  position: absolute;
+  left: 506px;
+  bottom: 5px;
+  width: 25px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-30 {
+  position: absolute;
+  left: 531px;
+  bottom: 5px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-33 {
+  position: absolute;
+  left: 557px;
+  bottom: 5px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .container-4 {
+  position: absolute;
+  left: 622px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-63 {
+  position: absolute;
+  left: 583px;
+  bottom: 5px;
+  width: 28px;
+  height: 25px;
+}
+.pagina-de-turismo .container-32 {
+  position: relative;
+  margin: 0 155.6px 2px 125px;
+  display: flex;
+  width: 1549.4px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .r-80-por-adulto-1 {
+  margin-right: 17.5px;
+  width: 386.5px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .r-175-por-adulto-1 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .r-65-por-adulto-1 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .container-1 {
+  margin: 0 170px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1045.6px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-33 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .r-1500-por-adulto-1 {
+  position: absolute;
+  right: 154px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .na-natureza {
+  position: relative;
+  margin: 0 62px 98px 28px;
+  display: flex;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .festas-1 {
+  margin: 0 71px 29px 71px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 64px;
+  color: #000000;
+}
+.pagina-de-turismo .para-quem-quer-aproveitar-as-principais-festas-de-mucug {
+  margin: 0 73px 29px 73px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-6 {
+  width: 52px;
+  height: 54px;
+}
+.pagina-de-turismo .icon-arrow-circle-right-5 {
+  margin: 178px 21px 96px 0;
+  display: flex;
+  width: 52px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .image-65 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: url('../assets/images/image_65.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .image-62 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: url('../assets/images/image_62.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .image-63 {
+  border-radius: 60px;
+  border-bottom: 1px solid #000000;
+  background: url('../assets/images/image_63.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 405px;
+  height: 328px;
+}
+.pagina-de-turismo .image-64 {
+  border-radius: 60px;
+  background: url('../assets/images/image_64.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 406px;
+  height: 328px;
+}
+.pagina-de-turismo .vector-3 {
+  width: 52px;
+  height: 54px;
+}
+.pagina-de-turismo .icon-arrow-circle-right-2 {
+  margin: 178px 0 96px 0;
+  display: flex;
+  width: 52px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-12 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  width: 1830px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .so-joo-em-mucug {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-17 {
+  margin: 1.7px 0 0px 0;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-18 {
+  margin: 1.7px 0 0px 0;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-19 {
+  margin: 1.7px 0 0px 0;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-20 {
+  margin: 1.7px 0 0px 0;
+  width: 25.8px;
+  height: 23.5px;
+}
+.pagina-de-turismo .vector-21 {
+  width: 27.7px;
+  height: 25.2px;
+}
+.pagina-de-turismo .group-14 {
+  margin: 4.1px 11.4px 5.7px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 0px;
+  width: 130.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-28 {
+  margin-left: 24.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-34 {
+  margin: 4px 0 33px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .padroeira-nossa-senhora-da-imaculada-conceio {
+  margin-bottom: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-25 {
+  margin-top: 1px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-28 {
+  margin-top: 1px;
+  width: 25px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-31 {
+  margin-top: 1px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector-34 {
+  margin-top: 1px;
+  width: 26px;
+  height: 24px;
+}
+.pagina-de-turismo .vector {
+  width: 28px;
+  height: 25px;
+}
+.pagina-de-turismo .container-16 {
+  margin-right: 71px;
+  display: flex;
+  flex-direction: row;
+  width: 131px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-15 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .festival-de-inverno-da-chapada-diamantina {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .ano-novo-em-mucug {
+  margin-bottom: 11px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .vector-37 {
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-40 {
+  width: 25px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-43 {
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-46 {
+  width: 53px;
+  height: 23px;
+}
+.pagina-de-turismo .container {
+  margin: 0 1.7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 130px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-5 {
+  margin: 4px 0 1px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1502.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .vector-49 {
+  position: absolute;
+  right: 577.7px;
+  bottom: 4px;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-52 {
+  position: absolute;
+  right: 551.7px;
+  bottom: 4px;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-55 {
+  position: absolute;
+  right: 525.7px;
+  bottom: 4px;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-58 {
+  position: absolute;
+  right: 499.7px;
+  bottom: 4px;
+  width: 26px;
+  height: 23px;
+}
+.pagina-de-turismo .vector-61 {
+  position: absolute;
+  right: 474.7px;
+  bottom: 4px;
+  width: 25px;
+  height: 23px;
+}
+.pagina-de-turismo .container-22 {
+  position: relative;
+  margin: 0 141px;
+  display: flex;
+  align-self: flex-start;
+  width: 1502.7px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .container-5 {
+  position: absolute;
+  left: 735px;
+  bottom: -2px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-8 {
+  position: absolute;
+  right: 167.6px;
+  bottom: -5px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .container-11 {
+  position: absolute;
+  right: 604.6px;
+  bottom: -2px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.pagina-de-turismo .festas {
+  position: relative;
+  margin: 0 62px 82px 28px;
+  display: flex;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .rectangle-59 {
+  border-radius: 40px;
+  position: absolute;
+  left: 525px;
+  top: 58px;
+  width: 341px;
+  height: 24px;
+}
+.pagina-de-turismo .rectangle-60 {
+  border-radius: 40px;
+  position: absolute;
+  top: 259px;
+  right: 51px;
+  width: 206px;
+  height: 50.4px;
+}
+.pagina-de-turismo .em-parceria-com-todos-os-hotelis-nordestinos {
+  position: relative;
+  margin: 0 234.9px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.pagina-de-turismo .explore-nossa-exclusividade {
+  position: relative;
+  margin: 0 0 1px 177.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 64px;
+  color: #000000;
+}
+.pagina-de-turismo .uma-pousada-selecionada-epronta-para-oque-voce-mais-deseja-uma-experiencia-inesquecivel {
+  position: relative;
+  margin: 0 0 19px 285px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #000000;
+}
+.pagina-de-turismo .visualizar {
+  position: relative;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 29px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .container-25 {
+  border-radius: 40px;
+  background: #94954A;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 58px 92.4px 52px 92.4px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .image-57 {
+  box-shadow: 13px 12px 6.4px 17px rgba(0, 0, 0, 0.25);
+  border-radius: 56px;
+  background: url('../assets/images/image_57.png') 50% / cover no-repeat;
+  transform: rotate(-2.302deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 537px;
+  height: 369.3px;
+}
+.pagina-de-turismo .exclusividades {
+  position: relative;
+  margin: 0 117px 75px 118px;
+  padding: 32px 0 0 61px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .portal-mucug-1 {
+  margin: 25px 161.5px 0 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jolly Lodger';
+  font-weight: 400;
+  font-size: 80px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .pontos-turisticos-hospedagens-gastronomia-eventos-contatos {
+  margin: 0 85.1px 44px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.pagina-de-turismo .icon {
+  width: 25px;
+  height: 25px;
+}
+.pagina-de-turismo .instagram {
+  margin-bottom: 14.5px;
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .redes-sociaisrestaurantefuavilachaleepousadaportalmucuge {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.redes-sociaisrestaurantefuavilachaleepousadaportalmucuge {
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pagina-de-turismo .container-20 {
+  margin: 2.5px 32.4px 37px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .vector-22 {
+  margin-bottom: 15.7px;
+  width: 30px;
+  height: 21.3px;
+}
+.pagina-de-turismo .contatos-portalmucugegmail-com {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.contatos-portalmucugegmail-com {
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pagina-de-turismo .container-19 {
+  margin: 5px 0 107px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.pagina-de-turismo .group-15 {
+  background: #7F4F24;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 50px 0 111px 0;
+  width: 1922px;
+  box-sizing: border-box;
+}
+.pagina-de-turismo {
+  background: #FDF0DC;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  box-sizing: border-box;
+}
